@@ -5,8 +5,7 @@ var OFF_SCREEN = -200;
 var DELAY = 1000;
 var ball;
 
-// This is the entrance to our program,
-// the crazy ball game.
+
 function start()
 {
 	setupBall();
@@ -14,10 +13,7 @@ function start()
 	mouseClickMethod(kill);
 }
 
-// This changes some properties of the
-// ball-- it sets its position to a random
-// location on the screen, and changes 
-// its color to red, green, or yellow.
+
 function changeBall()
 {
 	var x = Randomizer.nextInt(ball.getRadius(),
@@ -28,10 +24,7 @@ function changeBall()
 	changeColor();
 }
 
-// This function changes the color of the 
-// ball by picking a random number: 0, 1 
-// or 2, and then using that number to 
-// pick a color.
+
 function changeColor()
 {
 	var colorCode = Randomizer.nextInt(0, 2);
@@ -53,8 +46,6 @@ function changeColor()
 	ball.setColor(color);
 }
 
-// This does the initial setup of the 
-// ball, and places it offscreen.
 function setupBall()
 {
 	ball = new Circle(RADIUS);
