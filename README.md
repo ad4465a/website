@@ -1,63 +1,27 @@
-# samplewebpage
-Sample Web Page
-var RADIUS = 100;
-var OFF_SCREEN = -200;
-var DELAY = 1000;
-var ball;
+<html>
+<body background="https://thumbs.gfycat.com/BarrenGreenKitfox-mobile.jpg">
 
 
-function start()
-{
-	setupBall();
-	setTimer(changeBall, DELAY);
-	mouseClickMethod(kill);
-}
+<h1> Welcome my son to the Machines </h1>
 
+<style>
+h1 {color : Red ;}
+h3 {color: Red; }
+p{color: red}
 
-function changeBall()
-{
-	var x = Randomizer.nextInt(ball.getRadius(),
-		getWidth() - ball.getRadius());
-	var y = Randomizer.nextInt(ball.getRadius(), getHeight() - ball.getRadius());
-	
-	ball.setPosition(x, y);
-	changeColor();
-}
+</style>
 
+<html>
+<body>
 
-function changeColor()
-{
-	var colorCode = Randomizer.nextInt(0, 2);
-	var color;
-	
-	if(colorCode == 0)
-	{
-		color = Color.red;
-	}
-	else if(colorCode == 1)
-	{
-		color = Color.yellow;
-	}
-	else
-	{
-		color = Color.green;
-	}
-	
-	ball.setColor(color);
-}
+<article>
+  <header>
+    <h1> Comfrotably Numb</h1>
+    <h3> Brian Damage </h3>
+    <p> Hey You </p>
+  </header>
+  <p> Nobody Home </p>
+</article>
 
-function setupBall()
-{
-	ball = new Circle(RADIUS);
-	ball.setPosition(OFF_SCREEN, OFF_SCREEN);
-	add(ball);
-}
-
-function kill(e)
-{
-    var elem = getElementAt(e.getX(),e.getY);
-    if(elem != null)
-    {
-        ball.setColor(Color.black);
-    }
-}
+</body>
+</html>
