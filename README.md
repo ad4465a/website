@@ -6,8 +6,7 @@
 
 <style>
 h1 {color : Red ;}
-h3 {color: Red; }
-p{color: red}
+
 
 </style>
 
