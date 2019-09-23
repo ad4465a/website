@@ -26,14 +26,14 @@ p{color: red}
 </body>
 </html>
 
-<r>Click on the North America States :</r>
+<r>Click on the Pink Floyed Album  :</r>
 
-<img src="https://i.ytimg.com/vi/-EzURpTF5c8/maxresdefault.jpg" width="145" height="126" alt="NorthAmerica" usemap="#NorthAmerica">
+<img src="https://i.ytimg.com/vi/-EzURpTF5c8/maxresdefault.jpg" width="145" height="126" alt="Album" usemap="#Album">
 
 
-<map name="NorthAmerica">
-  <area shape="rect" coords="60,70,90,90" alt="USA" href="USA.htm">
-  <area shape="rect" coords="65,65,80,10"alt="Canada"href="Canada.htm">
+<map name="Album">
+  <area shape="rect" coords="60,70,90,90" alt="Pink" href="Pink.htm">
+  
 </map>
 
 
