@@ -5,8 +5,8 @@
 
 <table border = "1">
          <tr>
-            <td>Row 1, Column 1</td>
-            <td>Row 1, Column 2</td>
+            <td>Row 1, Group 1 </td>
+            <td>Row 1, Group 2</td>
          </tr>
          
          <tr>
