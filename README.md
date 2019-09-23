@@ -36,10 +36,10 @@ p{color: red}
   
 </map>
 
-<h4> Mountain </h4>
+<h4> Flower </h4>
 <img src="https://logos.co/1024/royalty-free-clip-art-vector-black-and-white-rose-logo-by-vector-tradition-sm-8006.jpg" alt="Mountains" width="300" height="200">
 
-<h5> Flower </h5>
+<h5><b> Mountain </b></h5>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJlWXQbsKRMPRn1qtZN3moZvXvt9YfGIeWJOXLqHKfbV5SJz0jA" alt="Mountains" width="300" height="200">
 
 
