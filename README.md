@@ -28,7 +28,7 @@ p{color: red}
 
 <r>Click on the North America States :</r>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphaiepcg2cdxMP4Y3TDAzYIx3wisF5W706Q2TxvhGOC4rwduc" width="145" height="126" alt="NorthAmerica" usemap="#NorthAmerica">
+<img src="https://i.ytimg.com/vi/-EzURpTF5c8/maxresdefault.jpg" width="145" height="126" alt="NorthAmerica" usemap="#NorthAmerica">
 
 
 <map name="NorthAmerica">
