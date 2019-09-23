@@ -49,7 +49,7 @@ ar {color: yellow; }
 
 <r>Click on the Pink Floyed Album  :</r>
 
-<img src="https://i.ytimg.com/vi/-EzURpTF5c8/maxresdefault.jpg" width="145" height="126" alt="Album" usemap="#Album">
+<img src="https://i.ytimg.com/vi/-EzURpTF5c8/maxresdefault.jpg" width="145" height="126" alt="Album" usemap="#Album", x/2,y/2>
 
 
 <map name="Album">
