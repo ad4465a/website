@@ -1,14 +1,35 @@
 <html>
 <body background="https://thumbs.gfycat.com/BarrenGreenKitfox-mobile.jpg">
 
+<body style="background-color:red;">
+
+<table border = "1">
+         <tr>
+            <td>Row 1, Column 1</td>
+            <td>Row 1, Column 2</td>
+         </tr>
+         
+         <tr>
+            <td>Row 2, Column 1</td>
+            <td>Row 2, Column 2</td>
+         </tr>
+      </table>
 
 <h1> Welcome to the Machines </h1>
 
 <style>
 h1 {color : Red ;}
-
+h3 {color: Red; }
+p{color: red}
+h4{color: red;}
+h5{color: red; }
+r{color: red; }
+td{color: red }
 
 </style>
+
+<p style="font-size:30 px;"> Hello World </p>
+
 
 <html>
 <body>
