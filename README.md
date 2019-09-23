@@ -25,7 +25,8 @@ h4{color: red;}
 h5{color: red; }
 r{color: red; }
 td{color: red }
-
+a{color: red; }
+ar {color: yellow; }
 </style>
 
 <p style="font-size:30 px;"> Hello World </p>
@@ -62,6 +63,7 @@ td{color: red }
 <h5><i> Mountain </i></h5>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJlWXQbsKRMPRn1qtZN3moZvXvt9YfGIeWJOXLqHKfbV5SJz0jA" alt="Mountains" width="300" height="200">
 
+<a href="https://www.hulu.com">HU</a><ar>website.<br> 
 
 </body>
 </html>
