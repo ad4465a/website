@@ -2,7 +2,7 @@
 <body background="https://thumbs.gfycat.com/BarrenGreenKitfox-mobile.jpg">
 
 
-<h1> Welcome my son to the Machines </h1>
+<h1> Welcome to the Machines </h1>
 
 <style>
 h1 {color : Red ;}
