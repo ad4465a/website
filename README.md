@@ -17,6 +17,9 @@
 
 <h1> Welcome to the Machines </h1>
 
+<h6 style="text-align:center;"> Hello World </h6>
+
+
 <style>
 h1 {color : Red ;}
 h3 {color: Red; }
@@ -27,6 +30,7 @@ r{color: red; }
 td{color: red }
 a{color: red; }
 ar {color: yellow; }
+h6{color; yellow ;}
 </style>
 
 <p style="font-size:30 px;"> Hello World </p>
@@ -49,7 +53,7 @@ ar {color: yellow; }
 
 <r>Click on the Pink Floyed Album  :</r>
 
-<img src="https://i.ytimg.com/vi/-EzURpTF5c8/maxresdefault.jpg" width="145" height="126" alt="Album" usemap="#Album", x/2,y/2>
+<img src="https://i.ytimg.com/vi/-EzURpTF5c8/maxresdefault.jpg" width="145" height="126" alt="Album" usemap="#Album">
 
 
 <map name="Album">
